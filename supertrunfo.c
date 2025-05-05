@@ -4,9 +4,9 @@ int main(){
     printf(" Desafio supertrunfo\n");
     printf(" Novo commit\n");
 
-    char estado[20];
-    char codigo[20];
-    char cidade[20];
+    char estado[30];
+    char codigo[40];
+    char cidade[50];
     int populacao;
     float area;
     float pib;
@@ -17,7 +17,7 @@ int main(){
 // O estado é uma string, então usamos %s para ler a string 
     printf("Digite o codigo: ");
     scanf("%s", codigo);
-// O codigo é uma string, então usamos letra e número, então usamos %s para ler a string
+// O codigo é uma string, então usamos letra e número para ler a string como %s 
     printf("Digite a cidade: ");
     scanf("%s", cidade);
 // O nome da cidade é uma string, então usamos %s para ler a string também 
