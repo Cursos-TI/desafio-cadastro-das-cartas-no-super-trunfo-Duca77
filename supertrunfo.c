@@ -4,9 +4,9 @@ int main(){
     printf(" Desafio supertrunfo\n");
     printf(" Novo commit\n");
 
-    char estado[30];
-    char codigo[40];
-    char cidade[50];
+    char estado[20];
+    char codigo[20];
+    char cidade[20];
     int populacao;
     float area;
     float pib;
@@ -33,4 +33,5 @@ int main(){
     printf("Digite o numero de pontos turisticos: ");
     scanf("%d", &pontos_turisticos); 
 // O numero de pontos turisticos é um inteiro, então usamos %d para ler o inteiro 
+return 0;
 }
