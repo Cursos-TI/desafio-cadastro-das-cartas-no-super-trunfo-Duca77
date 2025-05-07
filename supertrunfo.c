@@ -4,9 +4,9 @@ int main(){
     printf(" Desafio supertrunfo\n");
     printf(" Novo commit\n");
 
-    char estado[30];
-    char codigo[10];
-    char cidade[30];
+    char estado[20];
+    char codigo[20];
+    char cidade[20];
     int populacao;
     float area;
     float pib;
