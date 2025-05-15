@@ -3,7 +3,7 @@ int main(){
 
     printf(" Desafio supertrunfo\n");
     printf(" Novo commit\n");
-    
+    printf(" Novo commit 2\n");
     char estado[20];
     char codigo[20];
     char cidade[20];
